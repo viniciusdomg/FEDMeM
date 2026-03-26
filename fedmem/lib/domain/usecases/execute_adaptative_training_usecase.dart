@@ -1,4 +1,4 @@
-import '../entities/training_result_entity.dart';
+import 'package:fedmem/domain/entities/training_result_entity.dart';
 import '../repositories/i_federated_repository.dart';
 
 /// Caso de uso responsável por iniciar a rodada do Aprendizado Federado Adaptativo.

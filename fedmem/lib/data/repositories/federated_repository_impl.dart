@@ -1,5 +1,5 @@
 import '../../domain/repositories/i_federated_repository.dart';
-import '../../domain/entities/training_result_entity.dart';
+import 'package:fedmem/domain/entities/training_result_entity.dart';
 import '../datasources/hardware_datasource.dart';
 import '../datasources/flower_grpc_datasource.dart';
 import '../datasources/tflite_datasource.dart';

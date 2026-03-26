@@ -1,4 +1,4 @@
-import '../entities/training_result_entity.dart ';
+import 'package:fedmem/domain/entities/training_result_entity.dart';
 
 abstract class IFederatedRepository{
 
